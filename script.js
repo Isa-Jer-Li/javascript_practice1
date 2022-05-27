@@ -14,4 +14,4 @@ console.log(getFileExtension('webpack.config.js'));
 
 // slice function gives a portion of the actual string
 // put a '.' in the lastIndexOf parameter to find the occurence of the last string
-// this is a common file (webpack.config.js) found in a lot of web dev repository -- but this has 2 dots and we only want to get the .js exten
+// this is a common file (webpack.config.js) found in a lot of web dev repository -- but this has 2 dots and we only want to get the .js extens
